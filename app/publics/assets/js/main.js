@@ -1,0 +1,7 @@
+const page = {
+
+	init: function(){
+		
+	}
+
+}
